@@ -1,0 +1,600 @@
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\Proyecto_2.dll.config
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\Proyecto_2.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\Proyecto_2.pdb
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\csc.exe
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\csc.exe.config
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\csc.rsp
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\csi.exe
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\csi.exe.config
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\csi.rsp
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\System.AppContext.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\System.Console.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\System.IO.Compression.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\System.Net.Http.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\System.ValueTuple.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\vbc.exe
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\vbc.exe.config
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\vbc.rsp
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\VBCSCompiler.exe
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\Antlr3.Runtime.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\Newtonsoft.Json.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\System.Web.Optimization.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\WebGrease.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\System.Web.Optimization.xml
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\Newtonsoft.Json.xml
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\Antlr3.Runtime.pdb
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\es\System.Web.Optimization.resources.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\obj\Debug\Proyecto_2.csproj.AssemblyReference.cache
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\obj\Debug\Proyecto_2.csproj.CoreCompileInputs.cache
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\obj\Debug\Proyecto_2.csproj.CopyComplete
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\obj\Debug\Proyecto_2.dll
+C:\Users\cblaz\Desktop\Proyecto\Proyecto_2\obj\Debug\Proyecto_2.pdb
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\Proyecto_2.dll.config
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\Proyecto_2.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\Proyecto_2.pdb
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\Antlr3.Runtime.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\Newtonsoft.Json.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\System.Web.Optimization.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\WebGrease.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\System.Web.Optimization.xml
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\Newtonsoft.Json.xml
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\Antlr3.Runtime.pdb
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\es\System.Web.Optimization.resources.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\obj\Debug\Proyecto_2.csproj.AssemblyReference.cache
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\obj\Debug\Proyecto_2.csproj.CoreCompileInputs.cache
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\obj\Debug\Proyecto_2.csproj.CopyComplete
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\obj\Debug\Proyecto_2.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\obj\Debug\Proyecto_2.pdb
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\csc.exe
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\csc.exe.config
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\csc.rsp
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\csi.exe
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\csi.exe.config
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\csi.rsp
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.AppContext.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Console.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.IO.Compression.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Net.Http.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.ValueTuple.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\vbc.exe
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\vbc.exe.config
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\vbc.rsp
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\VBCSCompiler.exe
+C:\Users\bravo\Downloads\Proyecto_2 (1)\Proyecto_2\bin\roslyn\VBCSCompiler.exe.config
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\Proyecto_2.dll.config
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\Proyecto_2.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\Proyecto_2.pdb
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\csc.exe
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\csc.exe.config
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\csc.rsp
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\csi.exe
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\csi.exe.config
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\csi.rsp
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.AppContext.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Collections.Immutable.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Console.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Globalization.Calendars.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.IO.Compression.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.IO.FileSystem.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Net.Http.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Net.Sockets.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Reflection.Metadata.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.ValueTuple.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Xml.XPath.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\vbc.exe
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\vbc.exe.config
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\vbc.rsp
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\VBCSCompiler.exe
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\roslyn\VBCSCompiler.exe.config
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\Antlr3.Runtime.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\AspNet.ScriptManager.jQuery.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.ScriptManager.WebForms.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.Web.Infrastructure.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\Newtonsoft.Json.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\System.Web.Optimization.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\WebGrease.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\System.Web.Optimization.xml
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\Newtonsoft.Json.xml
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\Antlr3.Runtime.pdb
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\es\System.Web.Optimization.resources.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\obj\Debug\Proyecto_2.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\obj\Debug\Proyecto_2.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\obj\Debug\Proyecto_2.csproj.CopyComplete
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\obj\Debug\Proyecto_2.dll
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\Proyecto_2 (1)\Proyecto_2\obj\Debug\Proyecto_2.pdb
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\Proyecto_2.dll.config
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\Proyecto_2.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\Proyecto_2.pdb
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\csc.exe
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\csc.exe.config
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\csc.rsp
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\csi.exe
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\csi.exe.config
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\csi.rsp
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.AppContext.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Console.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.IO.Compression.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Net.Http.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.ValueTuple.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\vbc.exe
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\vbc.exe.config
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\vbc.rsp
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\VBCSCompiler.exe
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\Antlr3.Runtime.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\Newtonsoft.Json.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\System.Web.Optimization.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\WebGrease.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\System.Web.Optimization.xml
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\Newtonsoft.Json.xml
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\Antlr3.Runtime.pdb
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\es\System.Web.Optimization.resources.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\obj\Debug\Proyecto_2.csproj.AssemblyReference.cache
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\obj\Debug\Proyecto_2.csproj.CoreCompileInputs.cache
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\obj\Debug\Proyecto_2.csproj.CopyComplete
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\obj\Debug\Proyecto_2.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\ProyectoFinal\Proyecto_2 (1)\Proyecto_2\obj\Debug\Proyecto_2.pdb
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\Proyecto_2.dll.config
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\Proyecto_2.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\Proyecto_2.pdb
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\csc.exe
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\csc.exe.config
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\csc.rsp
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\csi.exe
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\csi.exe.config
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\csi.rsp
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.AppContext.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Console.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.IO.Compression.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Net.Http.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.ValueTuple.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\vbc.exe
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\vbc.exe.config
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\vbc.rsp
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\VBCSCompiler.exe
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\Antlr3.Runtime.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\Newtonsoft.Json.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\System.Web.Optimization.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\WebGrease.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\System.Web.Optimization.xml
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\Newtonsoft.Json.xml
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\Antlr3.Runtime.pdb
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\es\System.Web.Optimization.resources.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\obj\Debug\Proyecto_2.csproj.AssemblyReference.cache
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\obj\Debug\Proyecto_2.csproj.CoreCompileInputs.cache
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\obj\Debug\Proyecto_2.csproj.CopyComplete
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\obj\Debug\Proyecto_2.dll
+C:\Users\cblaz\Downloads\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\obj\Debug\Proyecto_2.pdb
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\Proyecto_2.dll.config
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\Proyecto_2.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\Proyecto_2.pdb
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\csc.exe
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\csc.exe.config
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\csc.rsp
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\csi.exe
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\csi.exe.config
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\csi.rsp
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.AppContext.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Console.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.IO.Compression.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Net.Http.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.ValueTuple.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\vbc.exe
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\vbc.exe.config
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\vbc.rsp
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\VBCSCompiler.exe
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\Antlr3.Runtime.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\Newtonsoft.Json.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\System.Web.Optimization.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\WebGrease.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\System.Web.Optimization.xml
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\Newtonsoft.Json.xml
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\Antlr3.Runtime.pdb
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\es\System.Web.Optimization.resources.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\obj\Debug\Proyecto_2.csproj.AssemblyReference.cache
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\obj\Debug\Proyecto_2.csproj.CoreCompileInputs.cache
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\obj\Debug\Proyecto_2.csproj.CopyComplete
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\obj\Debug\Proyecto_2.dll
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Proyecto_2 (1) (1)\Proyecto_2 (1)\Proyecto_2\obj\Debug\Proyecto_2.pdb
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\Proyecto_2.dll.config
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\Proyecto_2.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\Proyecto_2.pdb
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\csc.exe
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\csc.exe.config
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\csc.rsp
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\csi.exe
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\csi.exe.config
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\csi.rsp
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.AppContext.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Console.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Net.Http.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\vbc.exe
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\vbc.exe.config
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\vbc.rsp
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\Antlr3.Runtime.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\Newtonsoft.Json.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\System.Web.Optimization.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\WebGrease.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\System.Web.Optimization.xml
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\Newtonsoft.Json.xml
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\Antlr3.Runtime.pdb
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\obj\Debug\Proyecto_2.csproj.AssemblyReference.cache
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\obj\Debug\Proyecto_2.csproj.CoreCompileInputs.cache
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\obj\Debug\Proyecto_2.csproj.CopyComplete
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\obj\Debug\Proyecto_2.dll
+C:\Users\Carol\Desktop\Proyecto final progra\Proyecto_2 (1)\Proyecto_2 (1)\Proyecto_2\obj\Debug\Proyecto_2.pdb
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\Proyecto_2.dll.config
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\Proyecto_2.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\Proyecto_2.pdb
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\csc.exe
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\csc.exe.config
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\csc.rsp
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\csi.exe
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\csi.exe.config
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\csi.rsp
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.AppContext.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Console.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.IO.Compression.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Net.Http.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.ValueTuple.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\vbc.exe
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\vbc.exe.config
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\vbc.rsp
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\VBCSCompiler.exe
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\Antlr3.Runtime.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\Newtonsoft.Json.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\System.Web.Optimization.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\WebGrease.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\System.Web.Optimization.xml
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\Newtonsoft.Json.xml
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\Antlr3.Runtime.pdb
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\es\System.Web.Optimization.resources.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\obj\Debug\Proyecto_2.csproj.AssemblyReference.cache
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\obj\Debug\Proyecto_2.csproj.CoreCompileInputs.cache
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\obj\Debug\Proyecto_2.csproj.CopyComplete
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\obj\Debug\Proyecto_2.dll
+C:\Users\cblaz\Downloads\Proyecto_2_v2\Proyecto_2 (1)\Proyecto_2\obj\Debug\Proyecto_2.pdb
